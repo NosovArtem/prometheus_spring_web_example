@@ -65,3 +65,8 @@ docker logs --tail 100 my-container # Вывести последние 100 ст
 ```
 docker exec -it <my-container> sh
 ```
+
+
+http://localhost:8080/actuator/prometheus
+http://localhost:8080/api/hello
+http://localhost:9090/targets
